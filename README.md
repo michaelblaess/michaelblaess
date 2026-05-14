@@ -18,7 +18,7 @@ When not coding: cats, horses, and skateboarding.
 
 ## Featured Projects
 
-🎵 **[retro-amp](https://github.com/michaelblaess/retro-amp)** — A retro-styled terminal music player with real-time FFT visualizer, lyrics, and 6 themes
+🎵 **[retro-amp](https://github.com/michaelblaess/retro-amp)** — A retro-styled terminal music player with real-time FFT visualizer, lyrics, and 31 themes
 
 🔍 **[inspectcode-tui](https://github.com/michaelblaess/inspectcode-tui)** — Browse and fix JetBrains InspectCode results directly in your terminal
 
