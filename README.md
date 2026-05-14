@@ -1,16 +1,16 @@
 # Hi, I'm Michael 👋
 
-[![Followers](https://img.shields.io/github/followers/michaelblaess?logo=github&color=fbbf24)](https://github.com/michaelblaess)
-[![Stars](https://img.shields.io/github/stars/michaelblaess?affiliations=OWNER&logo=github&color=34d399)](https://github.com/michaelblaess?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/michaelblaess?logo=github&logoColor=white&color=fbbf24)](https://github.com/michaelblaess)
+[![Stars](https://img.shields.io/github/stars/michaelblaess?affiliations=OWNER&logo=github&logoColor=white&color=34d399)](https://github.com/michaelblaess?tab=repositories)
 
-[![C#](https://img.shields.io/badge/C%23-3b82f6?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-3b82f6?logo=dotnet)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-3b82f6?logo=microsoftsqlserver)](https://www.microsoft.com/sql-server/)
+[![C#](https://img.shields.io/badge/C%23-3b82f6?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-3b82f6?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-3b82f6?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
 [![Sitefinity](https://img.shields.io/badge/Sitefinity-3b82f6)](https://www.progress.com/sitefinity-cms)
-[![Python](https://img.shields.io/badge/Python-3b82f6?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3b82f6?logo=python&logoColor=white)](https://www.python.org/)
 [![Textual](https://img.shields.io/badge/Textual-3b82f6)](https://textual.textualize.io/)
-[![React](https://img.shields.io/badge/React-3b82f6?logo=react)](https://react.dev/)
-[![Astro](https://img.shields.io/badge/Astro-3b82f6?logo=astro)](https://astro.build/)
+[![React](https://img.shields.io/badge/React-3b82f6?logo=react&logoColor=white)](https://react.dev/)
+[![Astro](https://img.shields.io/badge/Astro-3b82f6?logo=astro&logoColor=white)](https://astro.build/)
 
 .NET developer specializing in C#, SQL Server, and Sitefinity CMS. In my spare time I build terminal tools with Python and [Textual](https://github.com/Textualize/textual), and websites with React and Astro.
 
