@@ -1,5 +1,12 @@
 # Hi, I'm Michael 👋
 
+<p align="center">
+  <img src="docs/flags/gb.svg" height="13" alt=""> <b>English</b> ·
+  <img src="docs/flags/de.svg" height="13" alt=""> <a href="README.de.md">Deutsch</a>
+</p>
+
+---
+
 [![Followers](https://img.shields.io/github/followers/michaelblaess?logo=github&logoColor=white&color=fbbf24)](https://github.com/michaelblaess)
 [![Stars](https://img.shields.io/github/stars/michaelblaess?affiliations=OWNER&logo=github&logoColor=white&color=34d399)](https://github.com/michaelblaess?tab=repositories)
 
