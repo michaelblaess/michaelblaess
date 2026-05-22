@@ -31,7 +31,7 @@ When not coding: cats, horses, and skateboarding.
 
 📸 **[visual-regression-scanner](https://github.com/michaelblaess/visual-regression-scanner)** — Detect visual regressions by comparing full-page screenshots against stored references
 
-<img src="docs/icons/sitemap-tracker.svg" height="20" align="absmiddle" alt=""> **[sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker)** — Crawl websites and generate standards-compliant sitemap.xml files
+<picture><source media="(prefers-color-scheme: dark)" srcset="docs/icons/sitemap-tracker-dark.svg"><img src="docs/icons/sitemap-tracker-light.svg" height="20" align="absmiddle" alt=""></picture> **[sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker)** — Crawl websites and generate standards-compliant sitemap.xml files
 
 🐛 **[console-error-scanner](https://github.com/michaelblaess/console-error-scanner)** — Scan websites for JavaScript console errors and HTTP failures
 
