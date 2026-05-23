@@ -35,7 +35,7 @@ Wenn ich nicht programmiere: Katzen, Pferde und Skateboarding.
 
 🐛 **[console-error-scanner](https://github.com/michaelblaess/console-error-scanner)** — Scanne Websites auf JavaScript-Konsolenfehler und HTTP-Fehler
 
-🎨 **[textual-themes](https://github.com/michaelblaess/textual-themes)** — Retro-Farbthemes für Textual-TUI-Anwendungen
+<picture><source media="(prefers-color-scheme: dark)" srcset="docs/icons/textual-themes-dark.svg"><img src="docs/icons/textual-themes-light.svg" height="28" align="absmiddle" alt=""></picture> **[textual-themes](https://github.com/michaelblaess/textual-themes)** — Retro-Farbthemes für Textual-TUI-Anwendungen
 
 ## Tech
 
